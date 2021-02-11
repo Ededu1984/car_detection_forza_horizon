@@ -42,24 +42,26 @@ ___
 
 A similar structure like the image below should be created, the darknet repository can be cloned using the link indicated above.
 
-<img src="image/dir.jpg" width="200" height="300"/>
+<img src="image/dir.jpg" width="300" height="300"/>
 
 
 The Yolo V4 weights are available in the link below:
 
 https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
-They should be indicated in the path inside the python notebook.
+<br>
+
+___
+The files coco.names, yolov4.cfg and yolov4.weights need to be saved inside the darknet folder or in any other location and indicated in the python notebook car_detection.ipynb
+
+<img src="image/paths.jpg" width="600" height="250"/>
 
 ___
 Requirements:
 
 - Matplotlib `pip install matplotlib`
 - Numpy `pip install numpy`
-- Keras `pip install keras`
-- Tensorflow `pip install tensorflow==2.2`
 - OpenCV `pip install opencv-python`
-- Numpy `pip install numpy`
 - Contrib `pip install opencv-contrib-python`
 - Darknet 
 ___
