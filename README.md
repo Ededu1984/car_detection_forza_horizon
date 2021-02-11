@@ -42,7 +42,7 @@ ___
 
 A similar structure like the image below should be created, the darknet repository can be cloned using the link indicated above.
 
-<img src="image/dir.png" width="200" height="300"/>
+<img src="image/dir.jpg" width="200" height="300"/>
 
 
 The Yolo V4 weights are available in the link below:
@@ -61,7 +61,7 @@ Requirements:
 - OpenCV `pip install opencv-python`
 - Numpy `pip install numpy`
 - Contrib `pip install opencv-contrib-python`
-- darknet 
+- Darknet 
 ___
 
 <br>
