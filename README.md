@@ -1,10 +1,7 @@
-# This application was developed to detect cars from a video captured by a camera in a highway
+# This application was developed to detect cars in Forza Horizon 4 gameplay video
 
 ## Results of the the application using Yolo V4
 ![](image/Project_Name.gif)
-
-<br>
-This project contains a counter to count the vehicles and car detection as well as other objects detection.
 
 <br>
 <br>
@@ -47,7 +44,7 @@ A similar structure like the image below should be created, the darknet reposito
 <img src="image/dir.png" width="200" height="300"/>
 
 
-The Yolo V4 weight are available in the link below:
+The Yolo V4 weights are available in the link below:
 
 https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
