@@ -49,6 +49,19 @@ The Yolo V4 weights are available in the link below:
 https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
 They should be indicated in the path inside the python notebook.
+
 ___
+Requirements:
+
+- Matplotlib `pip install matplotlib`
+- Numpy `pip install numpy`
+- Keras `pip install keras`
+- Tensorflow `pip install tensorflow==2.2`
+- OpenCV `pip install opencv-python`
+- Numpy `pip install numpy`
+- Contrib `pip install opencv-contrib-python`
+- darknet 
+___
+
 <br>
 In case of any questions, please contact me: edson.costa@hotmail.com
